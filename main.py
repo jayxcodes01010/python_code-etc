@@ -1,0 +1,3 @@
+#This is called a comment...
+print(" Waussup my broski  :)") #This is called a print statement
+print("This is my first Python code....")#This is called a print statement
